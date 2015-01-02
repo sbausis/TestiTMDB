@@ -7,8 +7,9 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import <iTMDb/iTMDb.h>
 
-@interface AppDelegate : NSObject <NSApplicationDelegate>
+@interface AppDelegate : NSObject <NSApplicationDelegate, TMDBDelegate>
 
 
 @end

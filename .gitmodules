@@ -1,0 +1,3 @@
+[submodule "iTMDB"]
+	path = iTMDB
+	url = https://github.com/sbausis/iTMDB.git
